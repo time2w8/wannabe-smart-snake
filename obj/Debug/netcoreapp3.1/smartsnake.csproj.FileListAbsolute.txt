@@ -1,0 +1,13 @@
+D:\upc\repos\smartsnake\bin\Debug\netcoreapp3.1\smartsnake.exe
+D:\upc\repos\smartsnake\bin\Debug\netcoreapp3.1\smartsnake.deps.json
+D:\upc\repos\smartsnake\bin\Debug\netcoreapp3.1\smartsnake.runtimeconfig.json
+D:\upc\repos\smartsnake\bin\Debug\netcoreapp3.1\smartsnake.runtimeconfig.dev.json
+D:\upc\repos\smartsnake\bin\Debug\netcoreapp3.1\smartsnake.dll
+D:\upc\repos\smartsnake\bin\Debug\netcoreapp3.1\smartsnake.pdb
+D:\upc\repos\smartsnake\obj\Debug\netcoreapp3.1\smartsnake.csprojAssemblyReference.cache
+D:\upc\repos\smartsnake\obj\Debug\netcoreapp3.1\smartsnake.AssemblyInfoInputs.cache
+D:\upc\repos\smartsnake\obj\Debug\netcoreapp3.1\smartsnake.AssemblyInfo.cs
+D:\upc\repos\smartsnake\obj\Debug\netcoreapp3.1\smartsnake.csproj.CoreCompileInputs.cache
+D:\upc\repos\smartsnake\obj\Debug\netcoreapp3.1\smartsnake.dll
+D:\upc\repos\smartsnake\obj\Debug\netcoreapp3.1\smartsnake.pdb
+D:\upc\repos\smartsnake\obj\Debug\netcoreapp3.1\smartsnake.genruntimeconfig.cache
