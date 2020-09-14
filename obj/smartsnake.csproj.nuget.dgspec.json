@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\upc\\repos\\smartsnake\\smartsnake.csproj": {}
+    "D:\\upc\\repos\\wannabe-smart-snake\\smartsnake.csproj": {}
   },
   "projects": {
-    "D:\\upc\\repos\\smartsnake\\smartsnake.csproj": {
+    "D:\\upc\\repos\\wannabe-smart-snake\\smartsnake.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\upc\\repos\\smartsnake\\smartsnake.csproj",
+        "projectUniqueName": "D:\\upc\\repos\\wannabe-smart-snake\\smartsnake.csproj",
         "projectName": "smartsnake",
-        "projectPath": "D:\\upc\\repos\\smartsnake\\smartsnake.csproj",
+        "projectPath": "D:\\upc\\repos\\wannabe-smart-snake\\smartsnake.csproj",
         "packagesPath": "C:\\Users\\time2w8\\.nuget\\packages\\",
-        "outputPath": "D:\\upc\\repos\\smartsnake\\obj\\",
+        "outputPath": "D:\\upc\\repos\\wannabe-smart-snake\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\time2w8\\AppData\\Roaming\\NuGet\\NuGet.Config"

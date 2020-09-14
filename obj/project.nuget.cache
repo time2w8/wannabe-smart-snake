@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "U7gM36QCvgBybhAIjqzgTpdUzxFtCJc+J31sunYqVhlCViHoEW0Hh4ju8Csli1BVn5jqxs2jWOCduqIHr8Y0lw==",
+  "dgSpecHash": "xRDcE3dk/lNKCitb/r1TOv7uIBcKvgJDNZOJiNbEFmH1rCMHPKUnWUikZElXjkBnRQVkSm/lUh46XbD0J0GbMA==",
   "success": true,
-  "projectFilePath": "D:\\upc\\repos\\smartsnake\\smartsnake.csproj",
+  "projectFilePath": "D:\\upc\\repos\\wannabe-smart-snake\\smartsnake.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
